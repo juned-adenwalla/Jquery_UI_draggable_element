@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.ball{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 360px;
+    background-color: antiquewhite;
+    cursor: grab;
+}
